@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Bruce Tian
 
-<!--
-**TYD-Bruce/TYD-Bruce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Mathematics M.S. candidate at the University of Michigan, graduating in May 2027. I build at the intersection of AI evaluation, data science, and software engineering.
 
-Here are some ideas to get you started:
+## What I work on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- LLM benchmarking, semantic evaluation, and model-routing workflows
+- Machine learning and computer vision
+- Data cleaning, analytics, and reproducible evaluation
+- TypeScript and Python software tools
+
+## Featured projects
+
+### Numerical ODE Lab
+A TypeScript/Vite educational solver with numerical-method visualizations and a context-aware AI tutor.
+
+[Live Demo](https://numerical-ode-lab-wai.vercel.app/) · [Repository](https://github.com/TYD-Bruce/numerical-ode-lab)
+
+### NYC Congestion Pricing Analysis
+A data science project studying fare burden and trip-pattern changes using NYC taxi and FHV data.
+
+_Project write-up coming soon._
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/yiding-tian-b16764387) · bruceyidingtian@gmail.com
