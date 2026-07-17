@@ -11,16 +11,18 @@ I'm a Mathematics M.S. candidate at the University of Michigan, graduating in Ma
 
 ## Featured projects
 
-### Numerical ODE Lab
-A TypeScript/Vite educational solver with numerical-method visualizations and a context-aware AI tutor.
+### Numerical Analysis Lab
 
-[Live Demo](https://numerical-ode-lab-wai.vercel.app/) · [Repository](https://github.com/TYD-Bruce/numerical-ode-lab)
+A modular TypeScript/Vite learning platform for numerical ODEs, with safe mathematical-expression evaluation, convergence studies, interactive visualizations, automated tests, and a context-aware AI tutor.
 
-### NYC Congestion Pricing Analysis
-A data science project studying fare burden and trip-pattern changes using NYC taxi and FHV data.
+[Live Demo](https://numerical-ode-lab-wai.vercel.app/) | [Repository](https://github.com/TYD-Bruce/numerical-ode-lab)
 
-_Project write-up coming soon._
+### Who Bears the Congestion Price?
+
+A four-person Erdős Institute data science project analyzing fare burden and trip-pattern shifts across approximately 37 million Yellow Taxi and 201.7 million Uber/Lyft trips, with reproducible pipelines and cautious interpretation of observational evidence.
+
+[Repository](https://github.com/Erdos-Projects/summer26-congestion-pricing)
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/yiding-tian-b16764387) · bruceyidingtian@gmail.com
+[LinkedIn](https://www.linkedin.com/in/yiding-tian-b16764387) | bruceyidingtian@gmail.com
