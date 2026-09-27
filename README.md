@@ -1,28 +1,26 @@
 # Hi, I'm Bruce Tian
 
-I'm a Mathematics M.S. candidate at the University of Michigan, graduating in May 2027. I build at the intersection of AI evaluation, data science, and software engineering.
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/pixel-cat.png">
+  <img align="right" src="assets/pixel-cat.gif" alt="A little pixel cat reading a book." width="160" height="128">
+</picture>
+
+I'm a Mathematics M.S. candidate at the University of Michigan, graduating in **May 2027**. I build at the intersection of AI evaluation, data science, and software engineering.
+
+I enjoy turning mathematical ideas into useful, well-tested tools. I'm looking for **2027 full-time opportunities** in AI/ML, data science, and software engineering.
 
 ## What I work on
 
-- LLM benchmarking, semantic evaluation, and model-routing workflows
-- Machine learning and computer vision
-- Data cleaning, analytics, and reproducible evaluation
-- TypeScript and Python software tools
+- Agent tools, LLM evaluation, and reproducible benchmarks
+- Applied machine learning, computer vision, and data analysis
+- Numerical computing and software tools in Python and TypeScript
 
-## Featured projects
+## Selected work
 
-### Numerical Analysis Lab
-
-A modular TypeScript/Vite learning platform for numerical ODEs, with safe mathematical-expression evaluation, convergence studies, interactive visualizations, automated tests, and a context-aware AI tutor.
-
-[Live Demo](https://numerical-ode-lab-wai.vercel.app/) | [Repository](https://github.com/TYD-Bruce/numerical-ode-lab)
-
-### Who Bears the Congestion Price?
-
-A four-person Erdős Institute data science project analyzing fare burden and trip-pattern shifts across approximately 37 million Yellow Taxi and 201.7 million Uber/Lyft trips, with reproducible pipelines and cautious interpretation of observational evidence.
-
-[Repository](https://github.com/Erdos-Projects/summer26-congestion-pricing)
+- **[Numerical T Lab](https://github.com/TYD-Bruce/numerical-t-lab)** — Interactive ODE and linear-system labs with step-by-step computations, visualizations, and an AI tutor grounded in solver results. [Try the demo →](https://numerical-t-lab.vercel.app/)
+- **[Oxygen Contributor Kit](https://github.com/O2TechAI/oxygen-contributor-kit)** — Contributions to tools for reviewing, redacting, and packaging AI coding histories, including privacy/release workflows and Windows support.
+- **[Who Bears the Congestion Price?](https://github.com/Erdos-Projects/summer26-congestion-pricing)** — An Erdős Institute team project studying fare burden and trip patterns across **238M+ NYC taxi and ride-hail records**, with reproducible data pipelines.
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/yiding-tian-b16764387) | bruceyidingtian@gmail.com
+[LinkedIn](https://www.linkedin.com/in/yiding-bruce-tian-b16764387) · [Email](mailto:bruceyidingtian@gmail.com)
